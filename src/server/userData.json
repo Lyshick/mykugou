@@ -1,0 +1,35 @@
+{
+    "userData":[
+        {
+            "user":"admin",
+            "psw":"qwe",
+            "isactive": "aabb",
+            "Introduction":"该用户很懒还没有简介",
+            "attention": 10,
+            "Fans": 0,
+            "Buddy" : 10,
+            "Visitor": 52,
+            "songsData":
+            {
+                "like":[],
+                "star":[]
+            }
+            
+        },
+        {
+            "user":"lzk",
+            "psw":"123",
+            "isactive": "ccdd",
+            "Introduction":"该用户很懒还没有简介",
+            "attention": 10,
+            "Fans": 0,
+            "Buddy" : 10,
+            "Visitor": 52,
+            "songsData":
+            {
+                "like":[],
+                "star":[]
+            }
+        }
+    ]
+}
